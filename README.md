@@ -66,11 +66,6 @@ Advent_of_Code_2024/
 | [Day 25](#day-25) | [Description du challenge](https://adventofcode.com/2024/day/25) | [Solution Day 25](main/Day_25.py) |
 
 
-## Dépendances
+Merci pour votre visite, et surtout, n’hésitez pas à me laisser une petite étoile sur le repo ! J’aime collectionner les étoiles autant que j’aime coder.
 
-Certaines solutions peuvent nécessiter des bibliothèques externes. Installez-les avec :
-
-```sh
-pip install -r requirements.txt
-```
 
