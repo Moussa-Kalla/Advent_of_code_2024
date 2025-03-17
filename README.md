@@ -29,7 +29,6 @@ Advent_of_Code_2024/
 │   ├── ...
 │   ├── Day_24.py
 │   └── Day_25.py
-├── requirements.txt
 └── README.md
 ```
  
@@ -67,9 +66,11 @@ Advent_of_Code_2024/
 | [Day 25](#day-25) | [Description du challenge](https://adventofcode.com/2024/day/25) | [Solution Day 25](main/Day_25.py) |
 
 
-## 🔧 Dépendances
+## Dépendances
 
 Certaines solutions peuvent nécessiter des bibliothèques externes. Installez-les avec :
 
 ```sh
 pip install -r requirements.txt
+```
+
